@@ -8,12 +8,12 @@ export default class Header extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="logo col-auto my-auto">
-                                <Link to="/"><h1>Unsplash</h1></Link>
+                                <Link to="/unsplash-clone"><h1>Unsplash</h1></Link>
                             </div>
                             <div className="col my-auto text-center">
                                 <div className="mainmenu">
                                     <ul>
-                                        <li><Link to="/">Home</Link></li>
+                                        <li><Link to="/unsplash-clone">Home</Link></li>
                                     </ul>
                                 </div>
                             </div>

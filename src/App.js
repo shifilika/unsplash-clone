@@ -24,7 +24,10 @@ function App() {
                     <div className="container">
                         <div className="row">
                             <div className="col">
-                                <Route exact path="/" render={props => (
+                                <Route exact path="/unsplash-clone" render={props => (
+                                    <LetestPhoto></LetestPhoto>
+                                )} />
+                                <Route exact path="/unsplash-clone" render={props => (
                                     <LetestPhoto></LetestPhoto>
                                 )} />
                                 <Route path="/single" component={About} />

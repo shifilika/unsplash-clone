@@ -17,7 +17,7 @@ import LetestPhoto from './components/LetestPhoto';
 function App() {
     return (
         <Router>
-            <div className="app">
+            <div className="app notification">
 
                 <Header></Header>
                 <div className="content-bolck">

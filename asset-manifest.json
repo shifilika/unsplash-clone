@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/unsplash-clone/static/css/main.6cfe75bd.chunk.css",
-    "main.js": "/unsplash-clone/static/js/main.b68ad1a2.chunk.js",
-    "main.js.map": "/unsplash-clone/static/js/main.b68ad1a2.chunk.js.map",
+    "main.js": "/unsplash-clone/static/js/main.a79df922.chunk.js",
+    "main.js.map": "/unsplash-clone/static/js/main.a79df922.chunk.js.map",
     "runtime-main.js": "/unsplash-clone/static/js/runtime-main.c295b939.js",
     "runtime-main.js.map": "/unsplash-clone/static/js/runtime-main.c295b939.js.map",
     "static/js/2.ad797fca.chunk.js": "/unsplash-clone/static/js/2.ad797fca.chunk.js",
     "static/js/2.ad797fca.chunk.js.map": "/unsplash-clone/static/js/2.ad797fca.chunk.js.map",
     "index.html": "/unsplash-clone/index.html",
-    "precache-manifest.a63c4142c05f796648327c570de5c18f.js": "/unsplash-clone/precache-manifest.a63c4142c05f796648327c570de5c18f.js",
+    "precache-manifest.b325d7f0bf2d4862f842abda87ddd835.js": "/unsplash-clone/precache-manifest.b325d7f0bf2d4862f842abda87ddd835.js",
     "service-worker.js": "/unsplash-clone/service-worker.js",
     "static/css/main.6cfe75bd.chunk.css.map": "/unsplash-clone/static/css/main.6cfe75bd.chunk.css.map",
     "static/js/2.ad797fca.chunk.js.LICENSE": "/unsplash-clone/static/js/2.ad797fca.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c295b939.js",
     "static/js/2.ad797fca.chunk.js",
     "static/css/main.6cfe75bd.chunk.css",
-    "static/js/main.b68ad1a2.chunk.js"
+    "static/js/main.a79df922.chunk.js"
   ]
 }
